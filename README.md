@@ -1,6 +1,7 @@
 ##House price prediction :-
   This project uses linear regression algorithm to predict houses prices based on multible features such as area /number of bathrooms /year biuld and other propertys  
    it include complet stages from 
+   
    1\ EDA --> Exploratory Data Analysis 
    2\Feature engneering 
    3\Encoding
