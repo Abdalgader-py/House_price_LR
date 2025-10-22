@@ -16,6 +16,7 @@
    
 the dataset used in the hose price advancesd regression techniquse , data set from kaggle 
 ##Project Workflow :- 
+
  1- data cleaning and handling the missing values 
  
  2-Exploratory Data Analysis 
